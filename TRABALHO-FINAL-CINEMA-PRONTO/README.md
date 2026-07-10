@@ -90,6 +90,4 @@ FROM vw_detalhes_ingressos
 ORDER BY ticket;
 ```
 
-## Observação
 
-O dump original foi separado em arquivos menores para que a estrutura, a população, os triggers e a view possam ser avaliados individualmente.
