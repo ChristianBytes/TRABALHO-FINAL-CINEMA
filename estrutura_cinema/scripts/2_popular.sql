@@ -1,0 +1,33 @@
+-- ============================================================
+-- 2_popular.sql
+-- Inserção dos dados iniciais do banco de dados do cinema
+-- ============================================================
+--
+-- ATENÇÃO:
+-- Cole neste arquivo os comandos INSERT que já estão funcionando
+-- no MySQL Workbench/container.
+--
+-- Não entregue este arquivo somente com estes comentários.
+--
+-- Ordem sugerida de inserção:
+--
+-- 1. CLIENTE
+-- 2. FUNCIONARIO
+-- 3. FILMES
+-- 4. SALA
+-- 5. SESSAO
+-- 6. INGRESSO
+--
+-- As tabelas que são referenciadas por chaves estrangeiras devem
+-- ser preenchidas antes das tabelas dependentes.
+--
+-- Exemplos de organização:
+--
+-- INSERT INTO CLIENTE (...) VALUES (...);
+-- INSERT INTO FUNCIONARIO (...) VALUES (...);
+-- INSERT INTO FILMES (...) VALUES (...);
+-- INSERT INTO SALA (...) VALUES (...);
+-- INSERT INTO SESSAO (...) VALUES (...);
+-- INSERT INTO INGRESSO (...) VALUES (...);
+--
+-- COLE ABAIXO O SCRIPT REAL DE POPULAÇÃO.

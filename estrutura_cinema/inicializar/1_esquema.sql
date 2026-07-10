@@ -1,0 +1,28 @@
+-- ============================================================
+-- 1_esquema.sql
+-- Criação do banco, tabelas, chaves e relacionamentos do cinema
+-- ============================================================
+--
+-- ATENÇÃO:
+-- Este arquivo precisa receber o código REAL de criação que já
+-- está funcionando no MySQL Workbench/container.
+--
+-- Não entregue este arquivo somente com estes comentários.
+--
+-- Ele deve conter, nesta ordem:
+--
+-- 1. DROP DATABASE IF EXISTS nome_do_banco;
+-- 2. CREATE DATABASE nome_do_banco;
+-- 3. USE nome_do_banco;
+-- 4. CREATE TABLE CLIENTE (...);
+-- 5. CREATE TABLE FUNCIONARIO (...);
+-- 6. CREATE TABLE FILMES (...);
+-- 7. CREATE TABLE SALA (...);
+-- 8. CREATE TABLE SESSAO (...);
+-- 9. CREATE TABLE INGRESSO (...);
+-- 10. Chaves estrangeiras e demais restrições.
+--
+-- Os nomes das tabelas devem continuar em letras maiúsculas:
+-- CLIENTE, FUNCIONARIO, FILMES, SALA, SESSAO e INGRESSO.
+--
+-- COLE ABAIXO O SCRIPT REAL DE CRIAÇÃO DO BANCO.
