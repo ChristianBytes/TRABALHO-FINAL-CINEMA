@@ -6,7 +6,7 @@ O banco representa as principais operações de um cinema, incluindo clientes, f
 
 ## Estrutura da entrega
 
-A organização segue o mesmo padrão utilizado no projeto Fazenda Inteligente:
+A organização:
 
 ```text
 Banco-de-Dados-I/
